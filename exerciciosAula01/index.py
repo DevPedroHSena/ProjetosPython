@@ -4,6 +4,6 @@ print('Python na escola de programação da Alura.')
 ## nome e idade devem ser armazenados em variáveis
 
 nome = input('Digite seu nome: ')
-idade = input('Digite a sua idade: ')
+idade = int(input('Digite a sua idade: '))
 
-print('Meu nome é {nome} e tenho {idade} anos.')
+print(f'Meu nome é {nome} e tenho {idade} anos.')
