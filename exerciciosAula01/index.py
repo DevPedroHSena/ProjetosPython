@@ -1,9 +1,12 @@
-print('Python na escola de programação da Alura.')
+## Exerício 1
+# print('Python na escola de programação da Alura.')
 
-## Imprimir a frase -> Meu nome é {nome} e tenho {idade} anos
-## nome e idade devem ser armazenados em variáveis
+# ## Imprimir a frase -> Meu nome é {nome} e tenho {idade} anos
+# ## nome e idade devem ser armazenados em variáveis
 
-nome = input('Digite seu nome: ')
-idade = int(input('Digite a sua idade: '))
+# nome = input('Digite seu nome: ')
+# idade = int(input('Digite a sua idade: '))
 
-print(f'Meu nome é {nome} e tenho {idade} anos.')
+# print(f'Meu nome é {nome} e tenho {idade} anos.')
+
+## Exercício 2
